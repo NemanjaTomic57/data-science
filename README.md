@@ -4,7 +4,7 @@ A collection of various data science tools and projects, ranging from simple web
 
 ## Sources of knowledge
 
-[PyTorch documentation](https://pytorch.org/docs/stable/index.html)
+[PyTorch Course](https://www.learnpytorch.io/)
 [FastAI](https://docs.fast.ai/)
 [Einführung in Data Science](https://www.oreilly.com/library/view/einfuhrung-in-data/9781098123734/)
 [Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
